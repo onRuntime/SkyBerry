@@ -10,7 +10,7 @@
 </div>
 
 # BerryGames - SkyBerry
-CloudBerry is the Spigot Server Core plugin from BerryGames.
+CloudBerry is the Spigot Server Core plugin of BerryGames.
 
 ## Support
 <a href="https://www.patreon.com/onruntime">
